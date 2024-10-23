@@ -58,5 +58,5 @@ for student, student_score in students.items():
     all_score += int(student_score['Середній бал'])
 
 
-students_num = len(student) / 3
+students_num = len(students)
 print(all_score / students_num)
