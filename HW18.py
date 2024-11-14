@@ -15,4 +15,4 @@ car3 = car(2020, 'France', 'Sitroen', 80000, 1.8)
 
 car2.mileage = 10000
 print(car1.cost_of_service)
-print( "Я авто марки" + car2.mark + "їду по справам господаря")
+print("Я авто марки " + car2.mark + " їду по справам господаря")
